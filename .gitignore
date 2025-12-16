@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+src/finetune/__pycache__/
+src/graph/__pycache__/
+src/eval/__pycache__/
+
+
+# Custom project files
+data/freebase/
+results/k-BET_res/
