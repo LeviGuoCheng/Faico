@@ -12,6 +12,29 @@ This repository contains the implementation of **Faico**, a Knowledge Graph (KG)
 
 If you prefer to skip training stage, we provide a  [quick-eval scripts](#quickstart) along with intermediate results so that you can easily reproduce/re-evaluate the results under qwen or different LLM backbone.
 
+## 📌 Citation
+
+If you find our work useful for your research, please cite our paper:
+
+```bibtex
+@inproceedings{10.1145/3770854.3780336,
+author = {Cheng, Guo and Zhao, Kangfei and Ye, Ke and Qiao, Pengpeng and Zhang, Zhiwei and Che, Saiguang and Ma, Shaonan and Zhang, Mingxing},
+title = {Faico: Faithful and Complete Knowledge Graph Augmented Reasoning},
+year = {2026},
+isbn = {9798400722585},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3770854.3780336},
+doi = {10.1145/3770854.3780336},
+booktitle = {Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.1},
+pages = {140–151},
+numpages = {12},
+keywords = {knowledge graph question answering, schema-constrained decoding, graph search},
+location = {Republic of Korea},
+series = {KDD '26}
+}
+```
+
 ## 📂 Project Structure
 
 ```text
