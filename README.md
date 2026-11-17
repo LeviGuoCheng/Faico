@@ -105,6 +105,7 @@ hf download deepseek-ai/DeepSeek-R1-0528-Qwen3-8B --local-dir ./data/model/DeepS
 #### B. Download & Extract Datasets
 
 We have uploaded the training/graph/k-BET results data to [Google Drive](https://drive.google.com/drive/folders/1ZsDZ6NcRI24ML5B8S5Pn8eR9OxSwBwGi?usp=sharing)
+
 Download the 
 
 1. Benchmark Datasets for training (WebQSP, CWQ, GrailQA)
