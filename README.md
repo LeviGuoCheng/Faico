@@ -104,6 +104,7 @@ hf download deepseek-ai/DeepSeek-R1-0528-Qwen3-8B --local-dir ./data/model/DeepS
 
 #### B. Download & Extract Datasets
 
+We have uploaded the training/graph/k-BET results data to [Google Drive](https://drive.google.com/drive/folders/1ZsDZ6NcRI24ML5B8S5Pn8eR9OxSwBwGi?usp=sharing)
 Download the 
 
 1. Benchmark Datasets for training (WebQSP, CWQ, GrailQA)
@@ -112,7 +113,7 @@ Download the [Faico-train-data.zip](https://drive.google.com/drive/folders/1ZsDZ
 
 2. Freebase Knowledge Graph
 
-Download the [freebase.tar.gz](https://drive.google.com/drive/folders/1ZsDZ6NcRI24ML5B8S5Pn8eR9OxSwBwGi?usp=sharing) and extract it into `data/freebase`.
+Download the [freebase.tar.gz](https://drive.google.com/file/d/1pYfHTHqNY9mhkNfDkiS4oGI7_QE1j45y/view?usp=share_link) and extract it into `data/freebase`.
 
 3. Pre-computed k-BET graph results (for direct evaluation)
    Download the [kBET_res.tar.gz](https://drive.google.com/file/d/1y7_dAUDzOK9EOxbVXWn2FC5RPSZRcNQ7/view?usp=share_link) and extract it into `results/k-BET_res`
@@ -136,7 +137,7 @@ rm kBET_res.tar.gz
 ```
 
 
-(Or you can download them all from [Quark Drive](https://pan.quark.cn/s/6192131b216b),code: uq5D)
+(Or you can download them all from [Quark Drive](https://pan.quark.cn/s/13816bb198b4),code: Kadt)
 
 ##  ⚙️ Complete Pipeline
 
